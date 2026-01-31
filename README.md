@@ -23,7 +23,7 @@
 - 👨💻 **13+ years** of professional full-stack development experience, with deep expertise in the .NET ecosystem and proficiency in the Java technology stack
 - 🏆 **5-time consecutive Microsoft MVP** (Most Valuable Professional), recognized for sustained technical contributions and community influence
 - 📝✍️ **Top 15** recommended blogger on **cnblogs**, author of the technical book *Mastering EntityFramework 6.x & Core 2.0*
-- 📢 Founder of the verified WeChat official account **JeffckyShare**, with 2000+ loyal followers, focusing on sharing practical .NET & Java development practices and architecture insights
+- 📢 Founder of the verified **WeChat Official Account JeffckyShare**, with 2000+ loyal followers, focusing on sharing practical .NET & Java development practices and architecture insights
 - 🔥 Passionate about open source, actively contributing to community projects, advocating for standardized development workflows and AI-assisted coding to boost R&D efficiency and code quality
 - 🛠️ Specialized in building high-cohesion, low-coupling software systems, with hands-on experience in pluginized architecture, dynamic routing, and cross-framework integration (e.g., .NET Core & Java Spring Boot)
 - ⚙️ Currently focusing on the field of **AGI SDD (Specification-Driven Development)**, exploring the in-depth integration of artificial intelligence and specification-driven programming, empowering the full standardized R&D process through AGI technology to enhance the rigor and implementation efficiency of system design.
