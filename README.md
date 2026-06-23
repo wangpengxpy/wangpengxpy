@@ -50,14 +50,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 
-## 📈 GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://wangpengxpy-gh-readme-stats.vercel.app/api?username=wangpengxpy&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/wangpengxpy">
-  <img height=200 align="center" src="https://wangpengxpy-gh-readme-stats.vercel.app/api/top-langs?username=wangpengxpy&layout=compact&langs_count=8&card_width=320&theme=dracula&cache_seconds=0" />
-</a>
 
 ## 🤝 Connect With Me
 
